@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Node",""],["OpenDBError",""],["Value",""]],"struct":[["Database","A decrypted KeePass database"],["Entry","A database entry containing several key-value fields."],["Group","A database group with child groups and entries"],["NodeIter","An iterator over Groups and Entries"]]});
